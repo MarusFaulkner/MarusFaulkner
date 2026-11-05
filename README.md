@@ -1,4 +1,7 @@
+![Marcus Faulkner | Quality + Technology](./banner2.gif)
+
 ### Marcus Faulkner
+
 Quality Inspector · Manufacturing & Medical Device Quality · Memphis, TN
 
 I inspect transformer components at Hyosung HICO and build portfolio tools in Python and JavaScript that demonstrate the quality methods I use on the floor — SPC, root cause analysis, CAPA, and value stream mapping. Background spans medical device manufacturing (Intuitive Surgical, NuVasive) and heavy manufacturing (Electrolux), currently pursuing ASQ Certified Quality Inspector (CQI) certification.
