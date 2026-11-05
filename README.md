@@ -2,11 +2,18 @@
 
 ### Marcus Faulkner
 
-Quality Inspector · Manufacturing & Medical Device Quality · Memphis, TN
+Quality Inspector | Manufacturing Quality • Medical Devices • Quality Analytics • Technology
 
-I inspect transformer components at Hyosung HICO and build portfolio tools in Python and JavaScript that demonstrate the quality methods I use on the floor — SPC, root cause analysis, CAPA, and value stream mapping. Background spans medical device manufacturing (Intuitive Surgical, NuVasive) and heavy manufacturing (Electrolux), currently pursuing ASQ Certified Quality Inspector (CQI) certification.
+I'm a manufacturing quality professional with experience across high-voltage transformer components, robotic surgical systems, medical devices, and appliance manufacturing.
 
-**Working in:** ISO 13485 / 14971 / 60601 · GD&T · SPC · CAPA · root cause analysis (5 Whys, Fishbone, Pareto) · Python · Streamlit · JavaScript
+Currently working at Hyosung HICO, I apply quality inspection principles while expanding my technical skills through hands-on projects involving Python, JavaScript, data analytics, and interactive manufacturing simulations.
+
+My portfolio connects practical manufacturing experience with technology, exploring statistical process control (SPC), root cause analysis, CAPA, process improvement, and quality decision-making.
+
+**Professional Development:** Pursuing ASQ Certified Quality Inspector (CQI) certification, with a growing interest in robotics, automation, machine learning, and AI applications in manufacturing quality.
+
+**Knowledge & Skills:** ISO 13485 • ISO 14971 • IEC 60601 • GD&T • SPC • CAPA • Root Cause Analysis (5 Whys, Fishbone, Pareto) • Python • Streamlit • JavaScript
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
