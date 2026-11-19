@@ -1,7 +1,5 @@
 ![Marcus Faulkner | Quality + Technology](./banner-inspection-line.svg)
 
-### Marcus Faulkner
-
 Quality Inspector | Manufacturing Quality • Medical Devices • Quality Analytics • Technology
 
 I'm a manufacturing quality professional with experience across high-voltage transformer components, robotic surgical systems, medical devices, and appliance manufacturing.
