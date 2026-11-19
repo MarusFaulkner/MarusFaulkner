@@ -1,4 +1,4 @@
-![Marcus Faulkner | Quality + Technology](./banner.svg)
+![Marcus Faulkner | Quality + Technology](./banner-inspection-line.svg)
 
 ### Marcus Faulkner
 
