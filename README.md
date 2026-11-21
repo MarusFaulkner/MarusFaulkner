@@ -27,6 +27,7 @@ My portfolio connects practical manufacturing experience with technology, explor
 | Project | What it does | Live |
 |---|---|---|
 | [gage-rr-msa](https://github.com/MarusFaulkner/gage-rr-msa) | Gauge R&R / MSA per AIAG: ANOVA and Average & Range, %GRR, ndc, control charts. Verified against the AIAG reference example. | [App](https://gage-rr-msa.streamlit.app) |
+| [supplier-receiving-inspection](https://github.com/MarusFaulkner/supplier-receiving-inspection) | Incoming inspection on SAP MM/QM-style data: supplier scorecard, SCAR and skip-lot flags, defect Pareto, QI stock aging, MB51 reconciliation. | [App](https://supplier-receiving-inspection.streamlit.app) |
 | [manufacturing-quality-dashboard](https://github.com/MarusFaulkner/manufacturing-quality-dashboard) | SPC, capability, RCA, CAPA, and predictive quality on synthetic process data. | [App](https://manufacturing-quality-dashboard-esgtdlymu4powzm3srvdwe.streamlit.app/) |
 | [ncr-analytics](https://github.com/MarusFaulkner/ncr-analytics) | NCR trends, aging, disposition, and severity analysis. | [App](https://ncr-quality-analytics.streamlit.app/) |
 | [interactive-a3-continuous-improvement](https://github.com/MarusFaulkner/interactive-a3-continuous-improvement) | A3 problem solving: current condition, 5 Whys, countermeasures, effectiveness check. | [App](https://interactive-a3-continuous-improvement-ctwpp7k9smpmaptayvphkl.streamlit.app/) |
